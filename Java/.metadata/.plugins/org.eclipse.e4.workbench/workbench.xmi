@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList/>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_g2TDopb-EeqNcoJyOo5VLw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_hHmPApb-EeqNcoJyOo5VLw" label="%trimmedwindow.label.eclipseSDK" x="21" y="57" width="1920" height="1080">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_g2TDopb-EeqNcoJyOo5VLw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_hHmPApb-EeqNcoJyOo5VLw" label="%trimmedwindow.label.eclipseSDK" x="21" y="57" width="1440" height="900">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -356,7 +356,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_hIr0IJb-EeqNcoJyOo5VLw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_hIvehJb-EeqNcoJyOo5VLw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_g2t6mJb-EeqNcoJyOo5VLw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_y7KKAKHwEeqbxOOGo2Kt0w" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_g2t6mJb-EeqNcoJyOo5VLw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_hIr0IZb-EeqNcoJyOo5VLw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -384,7 +384,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_hIsbNJb-EeqNcoJyOo5VLw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_hIwsoJb-EeqNcoJyOo5VLw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_g2ssgpb-EeqNcoJyOo5VLw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_y7L_MaHwEeqbxOOGo2Kt0w" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_g2ssgpb-EeqNcoJyOo5VLw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_hIsbNZb-EeqNcoJyOo5VLw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -707,7 +707,7 @@
     <bindings xmi:id="_g3Mbhpb-EeqNcoJyOo5VLw" keySequence="ALT+COMMAND+CTRL+D Q" command="_g2vIqpb-EeqNcoJyOo5VLw">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_g3mrMJb-EeqNcoJyOo5VLw" keySequence="COMMAND+CTRL+F" command="_g3mEI5b-EeqNcoJyOo5VLw"/>
+    <bindings xmi:id="_ytHG8KHwEeqbxOOGo2Kt0w" keySequence="COMMAND+CTRL+F" command="_g3mEI5b-EeqNcoJyOo5VLw"/>
   </bindingTables>
   <bindingTables xmi:id="_g3CqkJb-EeqNcoJyOo5VLw" elementId="org.eclipse.core.runtime.xml" bindingContext="_g2xk2Zb-EeqNcoJyOo5VLw">
     <bindings xmi:id="_g3CqkZb-EeqNcoJyOo5VLw" keySequence="CTRL+SHIFT+P" command="_g2tTjZb-EeqNcoJyOo5VLw"/>
@@ -990,7 +990,7 @@
     <bindings xmi:id="_g3Mbg5b-EeqNcoJyOo5VLw" keySequence="ALT+CR" command="_g2po-Jb-EeqNcoJyOo5VLw"/>
   </bindingTables>
   <bindingTables xmi:id="_g3mrNZb-EeqNcoJyOo5VLw" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_g2TquZb-EeqNcoJyOo5VLw">
-    <bindings xmi:id="_g3mrNpb-EeqNcoJyOo5VLw" keySequence="M1+W" command="_g3mrM5b-EeqNcoJyOo5VLw"/>
+    <bindings xmi:id="_ytHG8aHwEeqbxOOGo2Kt0w" keySequence="M1+W" command="_g3mrM5b-EeqNcoJyOo5VLw"/>
   </bindingTables>
   <bindingTables xmi:id="_hOzqQZb-EeqNcoJyOo5VLw" bindingContext="_hOzqQJb-EeqNcoJyOo5VLw"/>
   <bindingTables xmi:id="_hOzqQ5b-EeqNcoJyOo5VLw" bindingContext="_hOzqQpb-EeqNcoJyOo5VLw"/>
@@ -2473,7 +2473,7 @@
   <addons xmi:id="_g2Tqwpb-EeqNcoJyOo5VLw" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_g2Tqw5b-EeqNcoJyOo5VLw" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_g2X8IJb-EeqNcoJyOo5VLw" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_ys7gwaHwEeqbxOOGo2Kt0w" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <addons xmi:id="_g3ldEJb-EeqNcoJyOo5VLw" elementId="org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.cocoa.CocoaUIHandler"/>
   <categories xmi:id="_g2nzwJb-EeqNcoJyOo5VLw" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>

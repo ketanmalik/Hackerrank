@@ -5,7 +5,7 @@
  * @author ketanmalik June 8 2020
  */
 
-public class HowManyGames {
+public class HalloweenSale {
 
 	public static void main(String[] args) {
 		System.out.println(howManyGames(20, 3, 6, 85));
